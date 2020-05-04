@@ -11,7 +11,7 @@
 
 ### 运行效果
 
-![result-1](http://47.99.93.47/group1/M00/00/00/rBD10V6v1XqAQPNnAACsjzqfBHk882.png)![result-2](http://47.99.93.47/group1/M00/00/00/rBD10V6wD86AV6FsAAFRsP3z9IE017.png)
+![result-1](img/result-1.png?raw=true)![result-2](img/result-2.png?raw=true)
 
 
 
